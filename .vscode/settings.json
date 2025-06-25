@@ -1,0 +1,11 @@
+{
+  // disable built‐in CSS validation entirely:
+  "css.validate": false,
+  "scss.validate": false,
+  "less.validate": false,
+
+  // tell the HTML/CSS language features to recognize Tailwind files:
+  "files.associations": {
+    "*.css": "tailwindcss"
+  }
+}
